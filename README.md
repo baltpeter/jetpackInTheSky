@@ -8,7 +8,8 @@ License
 -------
 I really want this to be as open and free as possible, therefore I have chose a CC by-sa license. If you need any further permissions please contact me.
 
-[![Creative Commons License](http://i.creativecommons.org/l/by-sa/3.0/88x31.png)](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US)
+[![Creative Commons License](http://i.creativecommons.org/l/by-sa/3.0/88x31.png)] (http://creativecommons.org/licenses/by-sa/3.0/deed.en_US)
+
 <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Jetpack in the Sky</span> by [Benjamin Altpeter](http://benjamin-altpeter.de) is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US).
 
 Programming Practices
