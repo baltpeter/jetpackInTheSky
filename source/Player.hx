@@ -29,7 +29,10 @@ class Player extends FlxSprite
 
 	override public function update():Void
 	{
-		if((_jump >= 0) && (FlxG.keys.SPACE))
+		if((_jump >= 0) && (FlxG.keys.SPACE) && (FlxG.keys.CONTROL)){ //Cheat: infite fuel on CTRL+SPACE
+			isFlying = true;
+		}
+		else if((_jump >= 0) && (FlxG.keys.SPACE))
 		{
 			_jump += FlxG.elapsed;
 			if(_jump > 1) {_jump = -1;}
